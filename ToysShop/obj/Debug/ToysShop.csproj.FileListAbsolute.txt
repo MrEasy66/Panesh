@@ -1,0 +1,11 @@
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\bin\Debug\ToysShop.exe.config
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\bin\Debug\ToysShop.exe
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\bin\Debug\ToysShop.pdb
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\obj\Debug\ToysShop.csprojAssemblyReference.cache
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\obj\Debug\ToysShop.FormMain.resources
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\obj\Debug\ToysShop.FormHelp.resources
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\obj\Debug\ToysShop.Properties.Resources.resources
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\obj\Debug\ToysShop.csproj.GenerateResource.cache
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\obj\Debug\ToysShop.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\obj\Debug\ToysShop.exe
+C:\Users\Тимур\Documents\VS Проекты\ToysShop\obj\Debug\ToysShop.pdb
